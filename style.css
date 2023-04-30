@@ -1,0 +1,19 @@
+.container{
+    background-color: antiquewhite;
+    width: 196px;
+    margin-top: 200px;
+    margin-left: 600px;
+}
+.row{
+    display: flex;
+}
+.col{
+    height: 65px;
+    width:  65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    cursor: pointer;
+    border: 1px solid black;
+}
